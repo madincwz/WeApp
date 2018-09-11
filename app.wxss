@@ -1,4 +1,4 @@
-/**app.wxss**/
+/**app.wxss20180911**/
 @import 'wa-ui.wxss';
 page{
   height: 100%
